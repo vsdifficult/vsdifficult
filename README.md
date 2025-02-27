@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🌱 I’m currently learning DevOps  
 📔 Creating a neuron networks
 
